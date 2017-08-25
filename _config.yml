@@ -1,6 +1,16 @@
 name: David Merrick
-description: Portland, OR
+title: David Merrick
+description: Software Engineer • Portland, OR
 avatar: https://assets.david-merrick.com/img/avatar.jpeg
+theme: jekyll-swiss
+theme_color: white
+
+social_link: twitter
+social_username: _davidmerrick
+markdown: kramdown
+
+github_repo: david-merrick.com
+github_username: davidmerrick
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -54,7 +64,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-gist
@@ -68,3 +78,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - docker-compose.yml
+  - s3_website.yml
