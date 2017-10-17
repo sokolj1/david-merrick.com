@@ -5,3 +5,8 @@ My personal website, built with [Jekyll](https://jekyllrb.com/).
 Uses [Travis CI](https://travis-ci.org/) to deploy to an S3 bucket, which is fronted by [CloudFlare](https://www.cloudflare.com/).
 
 https://www.david-merrick.com
+
+
+# Reference
+
+- AMP: https://jamesiv.es/jekyll/amp/2017/05/09/amp-with-jekyll.html
